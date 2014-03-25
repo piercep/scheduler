@@ -1,9 +1,4 @@
-scheduler
-=========
-
-Scheduler Used for Server-Side Games in Multiplayer Environments
-
-Copyright Philip Pierce 2014
+﻿Copyright Philip Pierce 2014
 
 
 This scheduler is a useful tool for maintaining state and scheduling future

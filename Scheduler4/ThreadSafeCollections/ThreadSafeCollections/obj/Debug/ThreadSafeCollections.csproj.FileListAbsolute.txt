@@ -1,0 +1,10 @@
+S:\Github\My Code Samples\thread-safe-collections\ThreadSafeCollections\ThreadSafeCollections\obj\Debug\ThreadSafeCollections.csprojResolveAssemblyReference.cache
+S:\Github\My Code Samples\thread-safe-collections\ThreadSafeCollections\ThreadSafeCollections\bin\Debug\ThreadSafeCollections.dll
+S:\Github\My Code Samples\thread-safe-collections\ThreadSafeCollections\ThreadSafeCollections\bin\Debug\ThreadSafeCollections.pdb
+S:\Github\My Code Samples\thread-safe-collections\ThreadSafeCollections\ThreadSafeCollections\obj\Debug\ThreadSafeCollections.dll
+S:\Github\My Code Samples\thread-safe-collections\ThreadSafeCollections\ThreadSafeCollections\obj\Debug\ThreadSafeCollections.pdb
+S:\Github\My Code Samples\scheduler\Scheduler4\ThreadSafeCollections\ThreadSafeCollections\bin\Debug\ThreadSafeCollections.dll
+S:\Github\My Code Samples\scheduler\Scheduler4\ThreadSafeCollections\ThreadSafeCollections\bin\Debug\ThreadSafeCollections.pdb
+S:\Github\My Code Samples\scheduler\Scheduler4\ThreadSafeCollections\ThreadSafeCollections\obj\Debug\ThreadSafeCollections.csprojResolveAssemblyReference.cache
+S:\Github\My Code Samples\scheduler\Scheduler4\ThreadSafeCollections\ThreadSafeCollections\obj\Debug\ThreadSafeCollections.dll
+S:\Github\My Code Samples\scheduler\Scheduler4\ThreadSafeCollections\ThreadSafeCollections\obj\Debug\ThreadSafeCollections.pdb
